@@ -23,7 +23,7 @@ export const SITE_NAME = 'Ubuntu #Earthday Conf';
 export const META_DESCRIPTION =
   'This webinar is dedicated to the people of Africa. The growing realisation of how urgent the need is to get our people and earth healthy again and to alleviate the health care costs of individuals and the government is steadily mounting. Simply put we are all victims of a food system which was designed to place profit before health. This #Earthday you will learn why were high fibre whole food plant-based principles the pre-colonial order of the day in Africa.';
 export const SITE_DESCRIPTION =
-  'An interactive online experience by the community, free for everyoney.';
+  'Ubuntu #Earthday Webinar. An interactive online experience.';
 export const DATE = 'April 22, 2021';
 export const SHORT_DATE = 'Apr 22 - 17:00pm SAST';
 export const FULL_DATE = 'Apr 22nd 5pm South Africa Standard Time (GMT+2)';
@@ -41,19 +41,19 @@ export const REPO = 'https://github.com/vercel/virtual-event-starter-kit';
 export const SAMPLE_TICKET_NUMBER = 1234;
 export const NAVIGATION = [
   {
-    name: 'Stage A',
+    name: 'Introduction',
     route: '/stage/a'
   },
   {
-    name: 'Stage C',
+    name: 'The current Ubuntu diabetes reversal program',
     route: '/stage/c'
   },
   {
-    name: 'Stage M',
+    name: 'The climate emergency',
     route: '/stage/m'
   },
   {
-    name: 'Stage E',
+    name: 'The importance of Plant-Base',
     route: '/stage/e'
   },
   {
@@ -69,7 +69,7 @@ export const NAVIGATION = [
     route: '/expo'
   },
   {
-    name: 'Jobs',
+    name: 'Resources',
     route: '/jobs'
   }
 ];
