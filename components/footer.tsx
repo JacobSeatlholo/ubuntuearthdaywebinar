@@ -43,7 +43,7 @@ export default function Footer() {
         </div>
         <div className={styles['footer-copyright']}>
           Copyright © {`${new Date().getFullYear()} `} {COPYRIGHT_HOLDER || `${SITE_NAME}.`} Ubuntu Wellness All
-          rights reserved. Site Built by BusinessHustle
+          rights reserved. Site developed by BusinessHustle
         </div>
         <div className={styles['footer-center-group']}>
           <p className={styles['footer-paragraph']}>
