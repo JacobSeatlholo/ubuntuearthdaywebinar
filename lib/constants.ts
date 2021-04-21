@@ -69,8 +69,7 @@ export const NAVIGATION = [
     route: '/expo'
   },
   {
-    name: 'Resources',
-    route: '/company'
+    
   }
 ];
 
