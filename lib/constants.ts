@@ -17,16 +17,16 @@
 export const SITE_URL = 'https://demo.vercel.events';
 export const SITE_ORIGIN = process.env.NEXT_PUBLIC_SITE_ORIGIN || new URL(SITE_URL).origin;
 export const TWITTER_USER_NAME = 'vercel';
-export const BRAND_NAME = 'ACME';
-export const SITE_NAME_MULTILINE = ['ACME', 'Conf'];
-export const SITE_NAME = 'ACME Conf';
+export const BRAND_NAME = 'Ubuntu';
+export const SITE_NAME_MULTILINE = ['Ubuntu #Earthday', 'Conf'];
+export const SITE_NAME = 'Ubuntu #Earthday Conf';
 export const META_DESCRIPTION =
-  'This is an open source demo that Next.js developers can clone, deploy, and fully customize for events. Created through collaboration of marketers, designers, and developers at Vercel.';
+  'This webinar is dedicated to the people of Africa. The growing realisation of how urgent the need is to get our people and earth healthy again and to alleviate the health care costs of individuals and the government is steadily mounting. Simply put we are all victims of a food system which was designed to place profit before health. This #Earthday you will learn why were high fibre whole food plant-based principles the pre-colonial order of the day in Africa.';
 export const SITE_DESCRIPTION =
-  'An interactive online experience by the community, free for everyone.';
-export const DATE = 'October 27, 2020';
-export const SHORT_DATE = 'Oct 27 - 9:00am PST';
-export const FULL_DATE = 'Oct 27th 9am Pacific Time (GMT-7)';
+  'An interactive online experience by the community, free for everyoney.';
+export const DATE = 'April 22, 2021';
+export const SHORT_DATE = 'Apr 22 - 17:00pm SAST';
+export const FULL_DATE = 'Apr 22nd 5pm South Africa Standard Time (GMT+2)';
 export const TWEET_TEXT = META_DESCRIPTION;
 export const COOKIE = 'user-id';
 
