@@ -70,7 +70,7 @@ export const NAVIGATION = [
   },
   {
     name: 'Resources',
-    route: '/jobs'
+    route: '/company'
   }
 ];
 
