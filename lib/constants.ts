@@ -24,9 +24,9 @@ export const META_DESCRIPTION =
   'This webinar is dedicated to the people of Africa. The growing realisation of how urgent the need is to get our people and earth healthy again and to alleviate the health care costs of individuals and the government is steadily mounting. Simply put we are all victims of a food system which was designed to place profit before health. This #Earthday you will learn why were high fibre whole food plant-based principles the pre-colonial order of the day in Africa.';
 export const SITE_DESCRIPTION =
   'Ubuntu #Earthday Webinar. An interactive online experience.';
-export const DATE = 'April 22, 2021';
-export const SHORT_DATE = 'Apr 22 - 17:00pm SAST';
-export const FULL_DATE = 'Apr 22nd 5pm South Africa Standard Time (GMT+2)';
+export const DATE = 'April 28, 2021';
+export const SHORT_DATE = 'Apr 28 - 17:00pm SAST';
+export const FULL_DATE = 'Apr 28nd 5pm South Africa Standard Time (GMT+2)';
 export const TWEET_TEXT = META_DESCRIPTION;
 export const COOKIE = 'user-id';
 
